@@ -7,8 +7,8 @@ const initialState = {
   tasks: [
     {
       id: v4(),
-      title: "Smoke weed every day",
-      description: "dont forget the weed",
+      title: "test task",
+      description: "practice practice",
       done: false,
     },
     {
